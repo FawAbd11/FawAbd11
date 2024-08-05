@@ -28,6 +28,7 @@ Welcome to my GITHUB
 ## Libraries:
 <img align="left" alt="Jira" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/numpy.svg" />
 <img align="left" alt="Jira" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg" />
+<img align="left" alt="Jira" width="40px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-eclpz&psig=AOvVaw2oEbOHQEwn8Be6VrLpC11R&ust=1722961484671000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNihuuqh3ocDFQAAAAAdAAAAABAJ" />
 <img align="left" alt="Jira" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/tensorflow.svg" />
 <img align="left" alt="Jira" width="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/pytorch-icon.svg" />
 <img align="left" alt="Flask" width="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/pandas-icon.svg" />
