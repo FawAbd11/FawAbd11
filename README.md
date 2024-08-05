@@ -15,23 +15,22 @@ Welcome to my GITHUB
 <img align="left" alt="VS Code" width="40px"src="https://github.com/gilbarbara/logos/blob/main/logos/visual-studio-code.svg"/>
 <img align="left" alt="mysql" width="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" />
 <img align="left" alt="github" width="40px"src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"/>
-<img align="left" alt="Java" width="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/java.svg">
 <br/>
 <br>
 
 ## Frameworks:
-<img align="left" alt="Jira" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/django-icon.svg" />
+<img align="left" alt="DJango" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/django-icon.svg" />
 <img align="left" alt="Flask" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" />
 <br/>
 <br>
 
 ## Libraries:
-<img align="left" alt="Jira" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/numpy.svg" />
-<img align="left" alt="Jira" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg" />
-<img align="left" alt="Jira" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/tensorflow.svg" />
-<img align="left" alt="Jira" width="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/pytorch-icon.svg" />
-<img align="left" alt="Flask" width="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/pandas-icon.svg" />
-<img align="left" alt="Jira" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/matplotlib-icon.svg" />
+<img align="left" alt="Numpy" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/numpy.svg" />
+<img align="left" alt="Seaborn" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg" />
+<img align="left" alt="Tensorflow" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/tensorflow.svg" />
+<img align="left" alt="PyTorch" width="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/pytorch-icon.svg" />
+<img align="left" alt="Pandas" width="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/pandas-icon.svg" />
+<img align="left" alt="Matplotlib" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/matplotlib-icon.svg" />
 <br/>
 <br>
 
