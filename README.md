@@ -6,18 +6,9 @@ Welcome to my GITHUB
 * Passionate in working on **Salesforce, Web Technologies and Human Resources**.
 *  Check my portfolio on [Click here](www.linkedin.com/in/fawwazabdullahk) 
 
-
-## Connect with Me through:
-
-[<img align="left" alt="Subash | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Subash | Instagram" width="35px" src="https://img.freepik.com/premium-vector/purple-gradiend-social-media-logo_197792-1883.jpg" />][instagram]
-[<img align="left" alt="Subash | Mail" width="39px" src="https://github.com/Ishaan28malik/react-gmail-logo/blob/master/src/Assets/gmail.png" />][Mail]
-
-[linkedin]: www.linkedin.com/in/fawwazabdullahk
-[instagram]: https://instagram.com/
-[Mail]: fawwazabdullah11@gmail.com
 <br>
 <br>
+
 ## Tools and Language:
 
 <img align="left" alt="Python" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg">
@@ -50,10 +41,17 @@ Welcome to my GITHUB
 ## Deployment tools:
 <img align="left" alt="Jira" width="50px" src="https://github.com/gilbarbara/logos/blob/main/logos/aws.svg" />
 <img align="left" alt="Flask" width="50px" src="https://github.com/gilbarbara/logos/blob/main/logos/docker-icon.svg" />
-<br/><br>
+<br/>
+  
+## Connect with Me through:
+
+[<img align="left" alt="Subash | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Subash | Instagram" width="35px" src="https://img.freepik.com/premium-vector/purple-gradiend-social-media-logo_197792-1883.jpg" />][instagram]
+[<img align="left" alt="Subash | Mail" width="39px" src="https://github.com/Ishaan28malik/react-gmail-logo/blob/master/src/Assets/gmail.png" />][Mail]
+
+[linkedin]: www.linkedin.com/in/fawwazabdullahk
+[instagram]: https://instagram.com/
+[Mail]: fawwazabdullah11@gmail.com
 <div>
 <br/>
-<br/>
-<br/>
-
 </div>
