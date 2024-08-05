@@ -6,9 +6,6 @@ Welcome to my GITHUB
 * Passionate in working on **Salesforce, Web Technologies and Human Resources**.
 *  Check my portfolio on [Click here](www.linkedin.com/in/fawwazabdullahk) 
 
-<br>
-<br>
-
 ## Tools and Language:
 
 <img align="left" alt="Python" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg">
