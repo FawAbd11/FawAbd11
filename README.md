@@ -43,8 +43,8 @@ Welcome to my GITHUB
 ## Connect with Me through:
 
 [<img align="left" alt="Subash | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Subash | Instagram" width="35px" src="https://img.freepik.com/premium-vector/purple-gradiend-social-media-logo_197792-1883.jpg" />][instagram]
-[<img align="left" alt="Subash | Mail" width="39px" src="https://github.com/Ishaan28malik/react-gmail-logo/blob/master/src/Assets/gmail.png" />][Mail]
+[<img align="left" alt="Subash | Instagram" width="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/instagram-icon.svg" />][instagram]
+[<img align="left" alt="Subash | Mail" width="39px" src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" />][Mail]
 
 [linkedin]: https://www.linkedin.com/in/fawwaz-abdullah-k-b7b1a4243/
 [instagram]: https://instagram.com/
